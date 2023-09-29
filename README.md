@@ -15,3 +15,6 @@ Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Linux / Unix / Firebase
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenoreosandwich&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=goldenoreosandwich)  
+std::endl;
+  return 0;
+}
