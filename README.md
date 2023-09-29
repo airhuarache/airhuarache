@@ -1,11 +1,11 @@
 ```
- #include <iostream>
+#include <iostream>
 int main()
 {
- "Hello, World!👋" 
-} , 
- my name is Mathéo 
- I understand a little bit about cyber security🧑🏻‍💻
+  std::cout << "Hello, World!👋" << std::endl;
+  return 0;
+}
+
 ```
 ![u](https://i.imgur.com/0IQJ4CJ.gif)
 
@@ -17,6 +17,3 @@ Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Unix / Firebase / pytho
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenoreosandwich&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=goldenoreosandwich)  
-std::endl;
-  return 0;
-}
