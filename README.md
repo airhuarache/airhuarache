@@ -1,8 +1,7 @@
 ### #include <iostream>
 int main()
 {
-  std::cout << "Hello, World!👋" << std::endl;
-  return 0;
+ "Hello, World!👋" 
 } , 
 #### my name is Mathéo 
 #### I understand a little bit about cyber security🧑🏻‍💻
