@@ -10,7 +10,7 @@ int main()
 
 ["no matter where you go, everyone's connected" - lain iwakura](https://www.youtube.com/watch?v=VfM6HMXTNCs/).
 
-Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Unix / Firebase / python
+Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Unix / Firebase / python / PHP
 
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenoreosandwich&show_icons=true)  
