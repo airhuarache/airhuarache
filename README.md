@@ -17,4 +17,4 @@ Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Unix / Firebase / pytho
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=goldenoreosandwich)  
 
-[👨🏻‍💻](https://www.youtube.com/shorts/gNIPftl-V9k/).
+[🕵🏻](https://www.youtube.com/shorts/gNIPftl-V9k/)
