@@ -16,3 +16,5 @@ Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Unix / Firebase / pytho
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenoreosandwich&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=goldenoreosandwich)  
+
+ I understand a little bit about cyber security🧑🏻‍💻
