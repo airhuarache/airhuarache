@@ -2,7 +2,7 @@
 #include <iostream>
 int main()
 {
-  std::cout << "Hello, World!,my name is Mathéo 👋" << std::endl;
+  std::cout << "Hello, World!,my name is Mathéo👋" << std::endl;
   return 0;
 }
 ```
