@@ -17,4 +17,4 @@ Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Unix / Firebase / pytho
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=goldenoreosandwich)  
 
-**I understand a little bit about ̸͈̪͈͔̀͗̎̑̕<sup>"c̸̼͇̿̍̚͝ͅy̶̰̲̌̑̒̏b̵̻̳̤̾͒͒e̵̦̿͛r̷͙̠̹̊ ̷̭̙͌ŝ̴̥̗̤e̴̜̯͌̈̉͘c̴̡̗̗͛͛͌̊u̸̗̪̾̈́͜r̵̦͔̈͂̑i̴̧̬͕̦͋̌t̴̮͛y̷̧̞͂͗͝"🧑🏻‍💻 </sup>**
+**I understand a little bit about <sub>"cyber security"👨🏻‍💻</sub>
