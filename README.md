@@ -8,7 +8,7 @@ int main()
 ```
 ![u](https://i.imgur.com/0IQJ4CJ.gif)
 
-["no matter where you go, everyone's connected" - lain iwakura](https://www.youtube.com/watch?v=24rPXmWWXek/).
+["no matter where you go, everyone's connected" - lain iwakura](https://www.youtube.com/watch?v=VfM6HMXTNCs/).
 
 Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Unix / Firebase / python
 
