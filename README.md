@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Mathéo
+#### I understand a little bit about cyber security🧑🏻‍💻
+![I understand a little bit about cyber security🧑🏻‍💻](https://media.tenor.com/EGRY_T__O2IAAAAC/serial-experiments-lain-yasuo-iwakura.gif)
 
-<!--
-**goldenoreosandwich/goldenoreosandwich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"no matter where you go, everyone's connected" - lain iwakura
 
-Here are some ideas to get you started:
+Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Linux / Unix / Firebase / python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenoreosandwich&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=goldenoreosandwich)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldenoreosandwich)](https://github.com/anuraghazra/github-readme-stats) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/goldenoreosandwich) 
+(https://i.imgur.com/0IQJ4CJ.gif)
