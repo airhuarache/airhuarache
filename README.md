@@ -27,5 +27,3 @@ int main()
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenoreosandwich&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=goldenoreosandwich)  
-
-https://github.com/goldenoreosandwich/goldenoreosandwich/assets/143578476/9e1d83bd-8f27-4087-be57-06fbee6bbaf8
