@@ -13,7 +13,7 @@ int main()
 ["no matter where you go, everyone's connected" - lain iwakura🖤](https://www.youtube.com/watch?v=VfM6HMXTNCs/)
 
 
-<ins>**Skills & experience**</ins>
+<ins>**Skills & Experience**</ins>
 
 - SQl / Firebase
 - JS / HTML / css / php
