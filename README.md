@@ -12,7 +12,8 @@ int main()
 
 Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Unix / Firebase / python / PHP
 
- 
+![](https://komarev.com/ghpvc/?username=goldenoreosandwich&style=plastic&color=ff69b4) 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenoreosandwich&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=goldenoreosandwich)  
