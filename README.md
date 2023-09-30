@@ -1,4 +1,4 @@
-**Layer:01 - <sub>README.md</sub>**
+$${\color{red}**Layer:01 - README.md**}$$
 ```
 #include <iostream>
 int main()
@@ -12,7 +12,7 @@ int main()
 
 ["no matter where you go, everyone's connected" - lain iwakura🖤](https://www.youtube.com/watch?v=VfM6HMXTNCs/)
 
-Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Unix / Firebase / python / PHP
+**<ins>Skills: SQL / JS / HTML5 / CSS / C++ / C# / PowerShell / Unix / Firebase / python / PHP<ins/>**
 
 ![](https://komarev.com/ghpvc/?username=goldenoreosandwich&style=plastic&color=gray&base=714) 
 
