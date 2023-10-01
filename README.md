@@ -23,8 +23,8 @@ int main()
 - active directory / jump cloud
 - windows server 2016 / redhat / debian / gentoo / arch / kali
 
-![](https://komarev.com/ghpvc/?username=goldenoreosandwich&style=plastic&color=gray&base=714)</font>
+![](https://komarev.com/ghpvc/?username=cocainebags&style=plastic&color=gray&base=714)</font>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=goldenoreosandwich&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cocainebags&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=goldenoreosandwich)  
