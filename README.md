@@ -1,4 +1,4 @@
-$${\color{red}**Layer:01 - README.md**}$$
+$${\color{BLUE}**Layer:01 - README.md**}$$
 ```
 #include <iostream>
 int main()
