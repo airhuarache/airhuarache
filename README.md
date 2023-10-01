@@ -27,4 +27,4 @@ int main()
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cocainebags&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=cocainebags)  
+ 
