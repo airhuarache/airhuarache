@@ -20,7 +20,7 @@ int main()
 - JS / HTML / css 
 - C++ / C# / python 
 - PowerShell / Unix
-- windows server 2016 / linux
+- current operating system gentoo💜
 
 ![](https://komarev.com/ghpvc/?username=cocainebags&style=plastic&color=gray&base=714)</font>
 
