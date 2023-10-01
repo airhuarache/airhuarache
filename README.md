@@ -17,11 +17,10 @@ int main()
 <ins>**Skills & Experience**</ins>
 
 - SQl / Firebase
-- JS / HTML / css / php
-- C++ / C# / python / access
+- JS / HTML / css 
+- C++ / C# / python 
 - PowerShell / Unix
-- active directory / jump cloud
-- windows server 2016 / redhat / debian / gentoo / arch / kali
+- windows server 2016 / linux
 
 ![](https://komarev.com/ghpvc/?username=cocainebags&style=plastic&color=gray&base=714)</font>
 
