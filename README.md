@@ -18,7 +18,7 @@ int main()
 
 - SQl / Firebase
 - JS / HTML / css / php
-- C++ / C# / python scripting / access
+- C++ / C# / python / access
 - PowerShell / Unix
 - active directory / jump cloud
 - windows server 2016 / redhat / debian / gentoo / arch / kali
