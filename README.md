@@ -17,7 +17,7 @@ int main()
 <ins>**Skills & Experience**</ins>
 
 - SQl / Firebase
-- JS / HTML / css 
+- HTML / css 
 - C++ / C# / python 
 - PowerShell / Unix
 - current operating system gentoo💜
