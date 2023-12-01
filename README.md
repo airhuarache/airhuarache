@@ -11,7 +11,7 @@ int main()
 
 
 
-["no matter where you go, everyone's connected" - lain iwakura🖤](https://www.youtube.com/watch?v=VfM6HMXTNCs/)
+["no matter where you go, everyone's connected" - lain iwakura🖤](https://www.youtube.com/watch?v=OruCWEB4vw8)
 
 
 <ins>**Skills & Experience**</ins>
