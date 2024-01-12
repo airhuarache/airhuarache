@@ -24,6 +24,6 @@ int main()
 
 ![](https://komarev.com/ghpvc/?username=cocainebags&style=plastic&color=gray&base=714)</font>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cocainebags&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stinkypumpum&show_icons=true)  
 
  
